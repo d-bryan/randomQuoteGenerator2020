@@ -1,0 +1,44 @@
+{   "totalUsed": 0,
+    "quotes": [
+        {
+            "id": 0,
+            "name": "HAL",
+            "quote": "I'm sorry, Dave. I'm afraid I can't do that.",
+            "used": false,
+            "movie": "2001 A Space Odyssey",
+            "director": "Stanley Kubrick"
+        },
+        {
+            "id": 1,
+            "name": "Parker",
+            "quote": "It's a robot! Ash is a goddamned robot!",
+            "used": false,
+            "movie": "Alien",
+            "director": "Ridley Scott"
+        },
+        {
+            "id": 2,
+            "name": "Judge Elihu Smails",
+            "quote": "Danny, I'm having a party this weekend. How would you like to come over and mow my lawn?",
+            "used": false,
+            "movie": "Caddyshack",
+            "director": "Harold Ramis"
+        },
+        {
+            "id": 3,
+            "name": "Ian Malcolm",
+            "quote": "Boy, do I hate being right all the time.",
+            "used": false,
+            "movie": "Jurassic Park",
+            "director": "Stephen Spielberg"
+        },
+        {
+            "id": 4,
+            "name": "Prot",
+            "quote": "I'm an alien. Don't worry, I'm not going to leap out of your chest",
+            "used": false,
+            "movie": "K-PAX",
+            "director": "Iain Softley"
+        }
+    ]
+}

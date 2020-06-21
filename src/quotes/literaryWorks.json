@@ -1,0 +1,44 @@
+{   "totalUsed": 0,
+    "quotes": [
+        {
+            "id": 0,
+            "name": "Alice",
+            "quote": "After a fall such as this, I shall think nothing of tumbling downstairs!",
+            "used": false,
+            "book": "Alice in Wonderland",
+            "author": "Lewis Carroll"
+        },
+        {
+            "id": 1,
+            "name": "Camerlengo",
+            "quote": " I did not ask if you believe what man says about God. I asked if you believe in God.",
+            "used": false,
+            "book": "Angels and Demons",
+            "author": "Dan Brown"
+        },
+        {
+            "id": 2,
+            "name": "Rubeus Hagrid",
+            "quote": "NEVER...INSULT...ALBUS...DUMBLEDORE...IN...FRONT...OF...ME!",
+            "used": false,
+            "book": "Harry Potter and the Philosopher's Stone",
+            "author": "J .K. Rowling"
+        },
+        {
+            "id": 3,
+            "name": "Macbeth",
+            "quote": "If chance will have me king, why, chance may crown me without my stir.",
+            "used": false,
+            "book": "Macbeth",
+            "author": "William Shakespeare"
+        },
+        {
+            "id": 4,
+            "name": "Treebeard",
+            "quote": "Do not be hasty, that is my motto.",
+            "used": false,
+            "book": "Lord of the Rings: The Two Towers",
+            "author": "J. R. R. Tolkien"
+        }
+    ]
+}

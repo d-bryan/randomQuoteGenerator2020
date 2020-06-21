@@ -1,0 +1,34 @@
+{   "totalUsed": 0,
+    "quotes": [
+        {
+            "id": 0,
+            "name": "John Adams",
+            "quote": "There are few people in this world with whom I can converse.",
+            "used": false
+        },
+        {
+            "id": 1,
+            "name": "Ben Affleck",
+            "quote": "I'm always described as cocksure or with a swagger, and that bears no resemblance to who I feel like inside. I feel plagued by insecurity.",
+            "used": false
+        },
+        {
+            "id": 2,
+            "name": "King Edward \u2165",
+            "quote": "I will say with certain intention, that I will see my laws strictly obeyed, and those who break them shall be watched and denounced.",
+            "used": false
+        },
+        {
+            "id": 3,
+            "name": "Tina Fey",
+            "quote": "If you want to make an audience laugh, you dress a man up like an old lady and push her down the stairs. If you want to make comedy writers laugh, you push an actual old lady down the stairs.",
+            "used": false
+        },
+        {
+            "id": 4,
+            "name": "Francis Sears",
+            "quote": "There is no concept in the whole field of physics which is more difficult to understand than is the concept of entropy, nor is there one which is more fundamental.",
+            "used": false
+        }
+    ]
+}
