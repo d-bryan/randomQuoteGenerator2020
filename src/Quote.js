@@ -72,7 +72,6 @@ class Quote extends Component {
 
             });
         }
-
     }
 
     /**
@@ -104,7 +103,7 @@ class Quote extends Component {
      * Call the class and mount the component ever 10 seconds
      */
     componentDidMount() {
-        this.interval = setInterval(() => this.getData(), 7000);
+        this.interval = setInterval(() => this.getData(), 18000);
     }
 
     /**
@@ -112,7 +111,6 @@ class Quote extends Component {
      */
     componentWillUnmount() {
         clearInterval(this.interval);
-        console.log("message")
     }
 
     /**
@@ -139,7 +137,6 @@ class Quote extends Component {
             </Background>
         );
     }
-
 }
 
 export default Quote;
